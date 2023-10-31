@@ -5094,3 +5094,9 @@ a.text-muted:hover{color: #75859b !important}.badge{letter-spacing: .5px;
 .second-section{
     padding-bottom:0;
 }
+
+@media (min-width:768px){
+    .title-heading{
+        margin-bottom:375px;
+    }
+}
